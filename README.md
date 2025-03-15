@@ -1,2 +1,2 @@
 # python-class
-this is my python class repository in COASA
+this is my python class repository in COESA
